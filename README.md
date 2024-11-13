@@ -1,6 +1,6 @@
 //
 //  main.c
-// This code converts minutes entered by the use to day and year
+// This code converts minutes entered by the user to day and year
 //
 //  Created by Arl3ng
 //
